@@ -1,6 +1,6 @@
 ### Hi everyone! My name is Kacper Grabiec 👋
 
-Bachelor of Engineering in Computer Science.
+Master of Engineering in Computer Science.
 
 https://www.grabieckacper.com/
 
